@@ -1,8 +1,6 @@
 body{
-  color: white;
-  text-align: center;
-  background-color: black;
+  background-color: rgb(180, 180, 180);
 }
 h1{
-  color: orange;
+  color: rgb(0, 0, 0);
 }
